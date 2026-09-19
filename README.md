@@ -1,6 +1,6 @@
 # Handwritten Digit Recognition Using Dense Neural Network using NumPy
 
-This repo implements a handwritten digit classifier using a fully connected dense neural network trained from scratch with NumPy, trained on the famous MNSIT dataset.
+This repo implements a handwritten digit classifier using a fully connected dense neural network trained from scratch with NumPy, trained on the famous MNIST dataset.
 
 The implementation is intentionally manual: it performs forward propagation, computes gradients with backpropagation, updates weights using gradient descent.
 
